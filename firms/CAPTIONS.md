@@ -14,4 +14,8 @@ Always disclose: listing is paid. Listing is not a rank or a payout guarantee.
 
 **06** Coverage for your book. Quoted from the official page. Firms pay to list.
 
-TikTok: Get listed. / They read us before they buy you. / Paid to be listed. Not ranked. Quoted.
+**07** Paid to be listed. Not ranked. Disclosure stays on the sheet.
+
+**08** They arrive already knowing the rule. That is the point of the desk.
+
+TikTok: Get listed. / They read us before they buy you. / Paid to be listed. Not ranked. Quoted. / List your book. / Don't let a rumor speak first. / Coverage for your book.

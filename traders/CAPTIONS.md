@@ -56,11 +56,17 @@ The homepage never said this. Then the account died on it.
 1. Rules before you buy.
 2. This rule kills accounts. It was never on the checkout page.
 3. Floating loss can fail the book.
-4. Discord is not the source.
+4. What can deny a payout. Official rule.
 5. No winner. No score.
 6. Passed the eval. Still failed the funded book.
 7. Read it live. Trade with the rule book open.
+8. Ask the desk in plain English.
+9. Two drawdowns. Two ways to fail.
+10. Weekend holding is a rule. Check it Friday.
+11. Official terms beat this desk.
+12. Payout boards are reports. Eligibility is a checklist.
 
 ## YouTube series
 
-Open Book Live — we read the book first. Then we trade.
+Open Book Live — live trading by people who understand the rules.
+We read the book first. Then we trade.
