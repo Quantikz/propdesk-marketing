@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#231f19"/>
+  <g transform="translate(64 56)">
+    <rect width="56" height="56" rx="6.72" fill="#efe6d4"/>
+    <path fill="#161310" transform="scale(0.875)" d="M8 2h28.4C50.2 2 60 11.6 60 24.4 60 37.2 50.2 46.8 36.4 46.8H8V2zm16 15v15.4h12c8.2 0 12.6-4 12.6-7.7s-4.4-7.7-12.6-7.7H24z"/>
+    <rect x="7" y="46.48" width="14" height="7.84" rx="1.12" fill="#161310"/>
+  </g>
+  <text x="136" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#efe6d4">PropDesk</text>
+  <text x="136" y="104" font-family="ui-monospace, Menlo, monospace" font-size="11" letter-spacing="2.4" fill="#a39b8e">FOR PROP FIRMS</text>
+  <text x="1536" y="84" text-anchor="end" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2.2" fill="#c4b07a">PAID LISTING</text>
+  <text x="64" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" fill="#efe6d4">Get listed.</text>
+  <text x="64" y="520" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#a39b8e">The desk traders open before they buy an eval.</text>
+  <line x1="64" y1="800" x2="1536" y2="800" stroke="#3a342c" stroke-width="1"/>
+  <text x="64" y="842" font-family="ui-monospace, Menlo, monospace" font-size="14" fill="#746c62">Request a listing</text>
+  <text x="1536" y="842" text-anchor="end" font-family="ui-monospace, Menlo, monospace" font-size="14" fill="#efe6d4">propdesk-beta.vercel.app</text>
+</svg>
